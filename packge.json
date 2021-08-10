@@ -1,0 +1,84 @@
+{
+  "dataset": {
+     "record": [
+        {
+           "id": "1",
+           "Nome": "Tony Stark",
+           "identidade": "Homen de Ferro",
+           "Habilidade": "Armadura"
+        },
+        {
+           "id": "2",
+           "Nome": "Steve Rogers",
+           "identidade": "Capitão America",
+           "Habilidade": "Soro do Super Soldado e digno do Mjonir"
+        },
+        {
+           "id": "3",
+           "Nome": "Thor",
+           "identidade": "deus do Trovão",
+           "Habilidade": "Usa seu Martelo Mjonir e Machado Stormbreaker"
+        },
+        {
+           "id": "4",
+           "Nome": "Natasha Romanova",
+           "identidade": "Viúva Negra",
+           "Habilidade": "Asssacina Profissional, Agente Secreta e Vingadora"
+        },
+        {
+           "id": "5",
+           "Nome": "Clint Barton",
+           "identidade": "Gavião Arqueiro",
+           "Habilidade": "Assacino Profissional, Agente secreto, Arqueiro e Vingador"
+        },
+        {
+           "id": "6",
+           "Nome": "Bruce Benner",
+           "identidade": "Hulk",
+           "Habilidade": "Criado em laboratório Gama, ele se transforma num Monstro com força imensuravel"
+        },
+        {
+           "id": "7",
+           "Nome": "Visão",
+           "identidade": "Inteligencia artificial JARVIS com a Joia da Mente",
+           "Habilidade": "super força,pode se tornar intangivel, e solido quando quer."
+        },
+        {
+           "id": "8",
+           "Nome": "Wanda Maximorff",
+           "identidade": "Feiticeira Escarlate",
+           "Habilidade": "Com a magia do Caos, Wanda é considerada por muitos a mais poderosa do universo UMC"
+        },
+        {
+           "id": "9",
+           "Nome": "Peitro Maximorff",
+           "identidade": "Mercurio",
+           "Habilidade": "Super Velocidade"
+        },
+        {
+           "id": "10",
+           "Nome": "Peter Parker",
+           "identidade": "Homem-Aranha",
+           "Habilidade": "Super Força, Habilidades de aranha como andar nas paredes e lançar teias, 6º Sentido"
+        },
+        {
+           "id": "10",
+           "Nome": "Peter Parker",
+           "identidade": "Homem-Aranha",
+           "Habilidade": "Super Força, Habilidades de aranha como andar nas paredes e lançar teias, 6º Sentido"
+        },
+        {
+           "id": "11",
+           "Nome": "T´Challa",
+           "identidade": "Pantera Negra",
+           "Habilidade": "Protetor e Rei de Wakanda, Ele tem os poderes dados pela deusa bast, que são habilidades de uma pantera como força, rapidez e conta com um traje feito de Vibranium, o Metal mais poderoso da terra"
+        },
+        {
+           "id": "11",
+           "Nome": "T´Challa",
+           "identidade": "Stephen Strange",
+           "Habilidade": "Destorção da realidade, e Mestres das artes misticas, tambem conta com os poderes da jóia do Tempo"
+        }
+     ]
+  }
+}

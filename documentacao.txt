@@ -1,0 +1,70 @@
+O que é XML?
+XML significa eXtensible Markup Language
+XML é uma linguagem de marcação muito parecida com HTML
+XML foi projetado para armazenar e transportar dados
+XML foi projetado para ser autodescritivo
+XML é uma recomendação W3C
+
+Mesmo assim, o XML acima não FAZ nada. XML é apenas informação embrulhada em tags.
+
+XML não usa tags predefinidas
+A linguagem XML não possui tags predefinidas.
+
+As tags no exemplo acima (como <to> e <from>) não são definidas em nenhum padrão XML. Essas tags são "inventadas" pelo autor do documento XML.
+
+HTML funciona com tags predefinidas como <p>, <h1>, <table>, etc.
+
+Com XML, o autor deve definir as tags e a estrutura do documento.
+XML é extensível
+A maioria dos aplicativos XML funcionará conforme o esperado, mesmo se novos dados forem adicionados (ou removidos).
+
+Imagine um aplicativo projetado para exibir a versão original de note.xml (<to> <from> <heading> <body>).
+
+Em seguida, imagine uma versão mais recente de note.xml com elementos <date> e <hour> adicionados e um <heading> removido.
+
+XML simplifica as coisas
+Simplifica o compartilhamento de dados
+Simplifica o transporte de dados
+Simplifica as mudanças de plataforma
+Simplifica a disponibilidade de dados
+Muitos sistemas de computador contêm dados em formatos incompatíveis. A troca de dados entre sistemas incompatíveis (ou sistemas atualizados) é uma tarefa demorada para desenvolvedores da web. Grandes quantidades de dados devem ser convertidos e dados incompatíveis são freqüentemente perdidos.
+
+XML armazena dados em formato de texto simples. Isso fornece uma maneira independente de software e hardware de armazenamento, transporte e compartilhamento de dados.
+
+XML também torna mais fácil expandir ou atualizar para novos sistemas operacionais, novos aplicativos ou novos navegadores, sem perder dados.
+
+Com XML, os dados podem estar disponíveis para todos os tipos de "máquinas de leitura", como pessoas, computadores, máquinas de voz, feeds de notícias, etc.
+
+=======================================================================================================================================================================================================================================================================================================
+=======================================================================================================================================================================================================================================================================================================
+
+O que é JSON?
+JSON meios J ava S cript O bject N otation
+JSON é um formato de intercâmbio de dados leve
+JSON é um texto simples escrito em notação de objeto JavaScript
+JSON é usado para enviar dados entre computadores
+JSON é independente de linguagem *
+
+Por que usar JSON?
+O formato JSON é sintaticamente semelhante ao código para criar objetos JavaScript. Por causa disso, um programa JavaScript pode facilmente converter dados JSON em objetos JavaScript.
+
+Como o formato é apenas texto, os dados JSON podem ser facilmente enviados entre computadores e usados ​​por qualquer linguagem de programação.
+
+JavaScript tem uma função incorporada para converter strings JSON em objetos JavaScript:
+
+JSON.parse()
+
+JavaScript também tem uma função incorporada para converter um objeto em uma string JSON:
+
+JSON.stringify()
+
+Você pode receber texto puro de um servidor e usá-lo como um objeto JavaScript.
+
+Você pode enviar um objeto JavaScript a um servidor em formato de texto puro.
+
+Você pode trabalhar com dados como objetos JavaScript, sem análises e traduções complicadas.
+=======================================================================================================================================================================================================================================================================================================
+=======================================================================================================================================================================================================================================================================================================
+
+
+Referencia de estudo: https://www.w3schools.com/default.asp
